@@ -1,0 +1,45 @@
+body {
+  background-color: #5bb4d821;
+}
+
+h1 {
+  color: pink;
+  border: 4px solid purple;
+  font-size: 60px;
+  text-shadow: 1px 1px 1px black;
+  background: green; //lineargradient(to bottom, rgba(0,200,0,0.25), rgba(255,0,0,0.1));
+  padding: 3px;
+  text-align: center;
+    box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5), inset -2px -2px 5px rgba(255,0,255,0.5);
+
+}
+h4 {
+  color: #1aa233;
+  text-align: center;
+}
+
+img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 9%;
+}
+
+/*p {
+  color: blue;
+  padding: 3px;
+}*/
+ul {
+  color: #1aa233;
+}
+
+p {
+  text-align: center;
+}
+.first {
+  font-weight: bold;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  font-family: Nunito Sans, sans-serif;
+  color: #ff5b8d94;
+}
